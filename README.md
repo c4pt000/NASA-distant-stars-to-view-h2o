@@ -4,6 +4,11 @@ response https://www.usatoday.com/story/news/world/2021/11/03/water-discovered-g
 
 nothing proves this as an experimental control
 
+
+since not all distant stars might not all be fueled by hydrogen or helium nuclear plasmonic reactions
+which would mean that not all planets or distant star systems form heavy elements in the same way in terms of core chemical elements known to earth similar to our chemical periodic table
+
+
 since we haven't encountered water as h2o beyond the domain of this world nothing proves this except a proposed experiment to isolate a control
 
 
