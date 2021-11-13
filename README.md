@@ -4,7 +4,7 @@ response https://www.usatoday.com/story/news/world/2021/11/03/water-discovered-g
 
 nothing proves this as an experimental control
 
-since we haven't encountered water as h2o beyond the domain of this world nothing proves this excerpt a proposed experiment to isolate a control
+since we haven't encountered water as h2o beyond the domain of this world nothing proves this except a proposed experiment to isolate a control
 
 
 which would consist of a flat plate on mars about 20ft by 20ft viewable from earth
