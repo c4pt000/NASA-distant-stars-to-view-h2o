@@ -1,4 +1,4 @@
-reproducible results first on earth from an elevation of 100ft through transparent enclosure
+reproducible results first on earth from an elevation of 100ft through transparent enclosure with spectroscopy using a laser for spectral analysis
 
 to confirm and avoid false positive of same exact control experiment on mars to reduce variables to verify h2o as a chemical 
 structure remotely
