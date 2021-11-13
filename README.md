@@ -20,4 +20,4 @@ to project a laser spectroscopy experiment from earth off of the platter of wate
 
 to bounce back as a receiver for chemical spectrual analysis at a distance
 
-to isolate what h2o would verify as under observable galactic spectrual analysis viewing the depths of outer space
+to isolate what h2o would verify as under observable galactic spectral analysis viewing the depths of outer space
