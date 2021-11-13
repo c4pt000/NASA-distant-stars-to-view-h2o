@@ -18,6 +18,6 @@ where the rover would be equipped with 80 gallons of water or more
 
 to project a laser spectroscopy experiment from earth off of the platter of water 20ft by 20ft
 
-to bounce back as a receiver for chemical spectrual analysis at a distance
+to bounce back as a receiver for chemical spectral analysis at a distance
 
 to isolate what h2o would verify as under observable galactic spectral analysis viewing the depths of outer space
