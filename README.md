@@ -1,6 +1,8 @@
 # update to really isolate the control
 # 11-23-2021
 
+
+# as a comparsion experiment to rule out "water"
 # it should be a off of the surface of mars at a distance on a floating space probe since mars has constiutents in the carbon dioxide atomsphere which could lead to false postives with observation of spectroscopy meausrements at a distance as a control to determine if water is the distant realms further in outer space with telescopes and astronomical equipment
 
 # distant-stars
