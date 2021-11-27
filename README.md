@@ -3,6 +3,10 @@
 
 
 # as a comparsion experiment to rule out "water"
+
+if it floats in space the water stays sterile from contamination to really rule out that water is being measured when observed at a distance with spectroscopy equipment if that involves spectral analysis using a satellite in orbit of earth directed at a near by floating space probe of water maybe half the distance of the moon or less
+
+
 # it should be far away off of the surface of mars at a distance on a floating space probe since mars has constiutents in the carbon dioxide atomsphere which could lead to false postives with observation of spectroscopy meausrements at a distance as a control to determine if water is the distant realms further in outer space with telescopes and astronomical equipment
 
 # distant-stars
