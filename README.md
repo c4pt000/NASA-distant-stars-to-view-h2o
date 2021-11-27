@@ -3,7 +3,7 @@
 
 
 # as a comparsion experiment to rule out "water"
-# it should be a off of the surface of mars at a distance on a floating space probe since mars has constiutents in the carbon dioxide atomsphere which could lead to false postives with observation of spectroscopy meausrements at a distance as a control to determine if water is the distant realms further in outer space with telescopes and astronomical equipment
+# it should be far away off of the surface of mars at a distance on a floating space probe since mars has constiutents in the carbon dioxide atomsphere which could lead to false postives with observation of spectroscopy meausrements at a distance as a control to determine if water is the distant realms further in outer space with telescopes and astronomical equipment
 
 # distant-stars
 response https://www.usatoday.com/story/news/world/2021/11/03/water-discovered-galaxy-roughly-12-8-billion-light-years-away/6270213001/
