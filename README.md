@@ -1,3 +1,10 @@
+# 01-10-2022
+
+
+```
+nasa should have a satellite deployed into space with a garbage net to orbit Earth's upper atomsphere to collect loose debris like a fishing net and re enter the Earth's atmosphere to incinerate back on re entry into Earth's atmosphere
+```
+
 # update to really isolate the control
 # 11-23-2021
 
